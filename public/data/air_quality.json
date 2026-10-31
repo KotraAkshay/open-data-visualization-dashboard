@@ -1,0 +1,434 @@
+[
+  {
+    "city": "Bengaluru",
+    "date": "2025-01-15",
+    "aqi": 37,
+    "pm25": 75,
+    "pm10": 127.8,
+    "month": "Jan",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-01-15",
+    "aqi": 77,
+    "pm25": 99,
+    "pm10": 165.3,
+    "month": "Jan",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-01-15",
+    "aqi": 41,
+    "pm25": 75,
+    "pm10": 124.8,
+    "month": "Jan",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-01-15",
+    "aqi": 54,
+    "pm25": 78,
+    "pm10": 131.7,
+    "month": "Jan",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-02-15",
+    "aqi": 37,
+    "pm25": 85,
+    "pm10": 145.2,
+    "month": "Feb",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-02-15",
+    "aqi": 86,
+    "pm25": 109,
+    "pm10": 182.8,
+    "month": "Feb",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-02-15",
+    "aqi": 50,
+    "pm25": 85,
+    "pm10": 142.2,
+    "month": "Feb",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-02-15",
+    "aqi": 54,
+    "pm25": 88,
+    "pm10": 149.2,
+    "month": "Feb",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-03-15",
+    "aqi": 47,
+    "pm25": 93,
+    "pm10": 159.4,
+    "month": "Mar",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-03-15",
+    "aqi": 96,
+    "pm25": 106,
+    "pm10": 178.9,
+    "month": "Mar",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-03-15",
+    "aqi": 51,
+    "pm25": 93,
+    "pm10": 156.4,
+    "month": "Mar",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-03-15",
+    "aqi": 64,
+    "pm25": 96,
+    "pm10": 163.4,
+    "month": "Mar",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-04-15",
+    "aqi": 56,
+    "pm25": 97,
+    "pm10": 160.0,
+    "month": "Apr",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-04-15",
+    "aqi": 96,
+    "pm25": 121,
+    "pm10": 204.6,
+    "month": "Apr",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-04-15",
+    "aqi": 60,
+    "pm25": 108,
+    "pm10": 182.2,
+    "month": "Apr",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-04-15",
+    "aqi": 73,
+    "pm25": 111,
+    "pm10": 189.1,
+    "month": "Apr",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-05-15",
+    "aqi": 47,
+    "pm25": 92,
+    "pm10": 152.8,
+    "month": "May",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-05-15",
+    "aqi": 96,
+    "pm25": 116,
+    "pm10": 197.4,
+    "month": "May",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-05-15",
+    "aqi": 60,
+    "pm25": 103,
+    "pm10": 174.9,
+    "month": "May",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-05-15",
+    "aqi": 64,
+    "pm25": 106,
+    "pm10": 174.9,
+    "month": "May",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-06-15",
+    "aqi": 37,
+    "pm25": 78,
+    "pm10": 130.7,
+    "month": "Jun",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-06-15",
+    "aqi": 86,
+    "pm25": 102,
+    "pm10": 168.3,
+    "month": "Jun",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-06-15",
+    "aqi": 41,
+    "pm25": 78,
+    "pm10": 134.7,
+    "month": "Jun",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-06-15",
+    "aqi": 54,
+    "pm25": 81,
+    "pm10": 134.7,
+    "month": "Jun",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-07-15",
+    "aqi": 33,
+    "pm25": 70,
+    "pm10": 118.5,
+    "month": "Jul",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-07-15",
+    "aqi": 73,
+    "pm25": 94,
+    "pm10": 156.1,
+    "month": "Jul",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-07-15",
+    "aqi": 37,
+    "pm25": 70,
+    "pm10": 115.5,
+    "month": "Jul",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-07-15",
+    "aqi": 50,
+    "pm25": 73,
+    "pm10": 122.4,
+    "month": "Jul",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-08-15",
+    "aqi": 25,
+    "pm25": 69,
+    "pm10": 117.8,
+    "month": "Aug",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-08-15",
+    "aqi": 74,
+    "pm25": 93,
+    "pm10": 155.4,
+    "month": "Aug",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-08-15",
+    "aqi": 38,
+    "pm25": 69,
+    "pm10": 114.8,
+    "month": "Aug",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-08-15",
+    "aqi": 42,
+    "pm25": 72,
+    "pm10": 121.8,
+    "month": "Aug",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-09-15",
+    "aqi": 33,
+    "pm25": 67,
+    "pm10": 115.5,
+    "month": "Sep",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-09-15",
+    "aqi": 82,
+    "pm25": 91,
+    "pm10": 153.2,
+    "month": "Sep",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-09-15",
+    "aqi": 37,
+    "pm25": 78,
+    "pm10": 130.7,
+    "month": "Sep",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-09-15",
+    "aqi": 50,
+    "pm25": 81,
+    "pm10": 137.7,
+    "month": "Sep",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-10-15",
+    "aqi": 48,
+    "pm25": 87,
+    "pm10": 149.5,
+    "month": "Oct",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-10-15",
+    "aqi": 88,
+    "pm25": 111,
+    "pm10": 187.1,
+    "month": "Oct",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-10-15",
+    "aqi": 52,
+    "pm25": 98,
+    "pm10": 164.7,
+    "month": "Oct",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-10-15",
+    "aqi": 65,
+    "pm25": 101,
+    "pm10": 171.6,
+    "month": "Oct",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-11-15",
+    "aqi": 53,
+    "pm25": 107,
+    "pm10": 176.5,
+    "month": "Nov",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-11-15",
+    "aqi": 102,
+    "pm25": 131,
+    "pm10": 221.1,
+    "month": "Nov",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-11-15",
+    "aqi": 66,
+    "pm25": 107,
+    "pm10": 180.5,
+    "month": "Nov",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-11-15",
+    "aqi": 70,
+    "pm25": 121,
+    "pm10": 205.6,
+    "month": "Nov",
+    "year": 2025
+  },
+  {
+    "city": "Bengaluru",
+    "date": "2025-12-15",
+    "aqi": 49,
+    "pm25": 98,
+    "pm10": 162.7,
+    "month": "Dec",
+    "year": 2025
+  },
+  {
+    "city": "Delhi",
+    "date": "2025-12-15",
+    "aqi": 98,
+    "pm25": 122,
+    "pm10": 207.3,
+    "month": "Dec",
+    "year": 2025
+  },
+  {
+    "city": "Hyderabad",
+    "date": "2025-12-15",
+    "aqi": 53,
+    "pm25": 98,
+    "pm10": 166.7,
+    "month": "Dec",
+    "year": 2025
+  },
+  {
+    "city": "Mumbai",
+    "date": "2025-12-15",
+    "aqi": 66,
+    "pm25": 101,
+    "pm10": 166.6,
+    "month": "Dec",
+    "year": 2025
+  }
+]
